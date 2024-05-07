@@ -1,2 +1,5 @@
 /client/briefme-frontend/node_modules
 /server/api/env
+/server/api/api/__pycache__
+/server/api/db.*
+.env
